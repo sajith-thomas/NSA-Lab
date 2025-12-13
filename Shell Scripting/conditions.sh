@@ -5,16 +5,16 @@ read num
 
 if((num>0))
 then
-echo "You Entred Positive number"
+echo "You Entered Positive number"
 
 elif ((num<0))
 then
-echo "You entred negetive number"
+echo "You entered negetive number"
 
 elif((num=0))
 then
-echo "you enterd ZERO (0) "
+echo "you entered ZERO (0) "
 
 else
-echo "you entred a string or char , please Enter a number"
+echo "you entered a string or char , please Enter a number"
 fi
