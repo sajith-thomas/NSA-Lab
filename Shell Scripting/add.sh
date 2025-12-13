@@ -6,5 +6,5 @@ echo "Enter second number:"
 read mum
 echo "you Enterd" $mum
 result=$((num+mum))
-echo $result
+echo "Result is" $result
 
