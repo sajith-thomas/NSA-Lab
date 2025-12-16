@@ -1,7 +1,7 @@
 #!/bin/bash
-echo "enter the first number"
+echo "enter first number"
 read num1
-echo "enter the second number"
+echo "enter second number"
 read num2
 echo "......"
 echo "before swapping"
